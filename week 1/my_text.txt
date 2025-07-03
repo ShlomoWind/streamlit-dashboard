@@ -1,0 +1,7 @@
+Hello, World!
+It’s the first exercise in I/O
+That mean it is number 1
+Not 2
+Not three
+It is exciting
+And i am all 4 it

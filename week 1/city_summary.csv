@@ -1,0 +1,1768 @@
+City,Subject,Count
+Plantation,Mr.,1
+Plantation,Mrs.,1
+Chicago,Mrs.,9
+Chicago,Dr.,3
+Chicago,Mr.,12
+Chicago,Ms.,9
+Worthington,Mr.,1
+Worthington,Mrs.,1
+Fulton,Ms.,1
+Fulton,Mr.,1
+Fargo,Mr.,2
+Blackwood,Mrs.,1
+Marietta,Mr.,4
+Marietta,Mrs.,1
+Mansfield,Mr.,5
+Mansfield,Mrs.,2
+Mansfield,Ms.,3
+Minneapolis,Mr.,7
+Minneapolis,Mrs.,2
+Minneapolis,Dr.,1
+Minneapolis,Ms.,1
+Boston,Dr.,2
+Boston,Ms.,4
+Boston,Mr.,6
+Boston,Mrs.,2
+Waco,Ms.,2
+Waco,Mrs.,1
+Cicero,Ms.,1
+Grapevine,Mrs.,1
+Grapevine,Ms.,1
+Nashville,Mrs.,3
+Nashville,Mr.,7
+Nashville,Ms.,2
+Nashville,Dr.,1
+Kenner,Ms.,2
+Kenner,Mr.,1
+Miami,Mrs.,4
+Miami,Mr.,9
+Miami,Dr.,1
+Miami,Ms.,3
+Denver,Ms.,2
+Denver,Mr.,8
+Denver,Dr.,2
+Denver,Mrs.,3
+Gettysburg,Ms.,1
+Manchester,Mr.,4
+Manchester,Mrs.,2
+Manchester,Ms.,4
+San Antonio,Mr.,7
+San Antonio,Ms.,1
+San Antonio,Mrs.,1
+Weiser,Mr.,1
+Alameda,Ms.,1
+Frederick,Mrs.,1
+Orrville,Mr.,1
+Orrville,Mrs.,1
+New Brunswick,Mr.,4
+New Brunswick,Ms.,1
+New Brunswick,Dr.,1
+Roanoke,Mr.,1
+Roanoke,Ms.,1
+Troy,Ms.,1
+Troy,Mr.,2
+Troy,Mrs.,1
+New York,Mr.,27
+New York,Ms.,13
+New York,Mrs.,17
+New York,Dr.,2
+Alzada,Ms.,1
+New Castle,Mr.,3
+Norfolk,Mrs.,2
+Norfolk,Mr.,1
+Norfolk,Ms.,1
+Tacoma,Mr.,3
+Verona,Mr.,1
+Saginaw,Mr.,4
+Saginaw,Ms.,2
+Gary,Mrs.,1
+Gary,Mr.,2
+Puposky,Ms.,1
+Philadelphia,Mr.,19
+Philadelphia,Ms.,7
+Philadelphia,Mrs.,2
+Philadelphia,Dr.,1
+Aptos,Mr.,1
+Delray Beach,Ms.,1
+Delray Beach,Mrs.,1
+Louisville,Mrs.,6
+Louisville,Ms.,4
+Louisville,Mr.,6
+Irvine,Mr.,5
+Irvine,Mrs.,5
+Irvine,Dr.,1
+Irvine,Ms.,2
+Parkton,Mr.,1
+Manhattan,Mr.,1
+Piscataway,Mr.,4
+Piscataway,Ms.,1
+Rentz,Mr.,1
+City Of Commerce,Mr.,4
+City Of Commerce,Ms.,1
+City Of Commerce,Mrs.,1
+East Brady,Ms.,1
+Bath,Mr.,1
+Atlanta,Mr.,11
+Atlanta,Mrs.,4
+Atlanta,Ms.,5
+Bayside,Mrs.,1
+Cumberland,Ms.,1
+Cumberland,Mr.,1
+San Diego,Mr.,14
+San Diego,Mrs.,1
+San Diego,Ms.,5
+San Diego,Dr.,1
+Dallas,Dr.,2
+Dallas,Mrs.,9
+Dallas,Mr.,11
+Dallas,Ms.,6
+Santa Clara,Mr.,2
+Santa Clara,Mrs.,1
+Santa Clara,Ms.,3
+Overland Park,Mr.,2
+Overland Park,Ms.,1
+Wichita,Mrs.,1
+Wichita,Mr.,3
+Wichita,Ms.,4
+Freeborn,Mr.,1
+Collinsville,Ms.,1
+San Bernardino,Ms.,1
+Milwaukee,Mr.,6
+Milwaukee,Ms.,7
+Milwaukee,Mrs.,3
+Winter Park,Mr.,1
+Dodge City,Mrs.,2
+Gainesville,Dr.,1
+Gainesville,Ms.,5
+Gainesville,Mr.,1
+Flushing,Ms.,2
+Flushing,Mrs.,1
+Midland City,Dr.,1
+Mountain View,Mr.,5
+Mountain View,Ms.,3
+Glen Allen,Mr.,1
+Glen Allen,Ms.,1
+Walsenburg,Ms.,1
+Macon,Mr.,5
+Macon,Mrs.,2
+Sterling,Mr.,2
+Far Rockaway,Ms.,1
+Rochester,Mrs.,3
+Rochester,Mr.,1
+Michigan Center,Ms.,1
+Beaverton,Mr.,2
+Guilford,Mrs.,1
+Hanover,Mr.,1
+Hanover,Mrs.,2
+Rutland,Mr.,1
+Cincinnati,Mr.,10
+Cincinnati,Ms.,2
+Cincinnati,Mrs.,2
+Independence,Ms.,2
+Independence,Mr.,2
+Independence,Mrs.,1
+Spartanburg,Mr.,2
+Seymour,Mr.,2
+Ashland,Ms.,2
+Ashland,Mr.,2
+Loveland,Mrs.,1
+Seattle,Mrs.,6
+Seattle,Mr.,11
+Seattle,Ms.,2
+Scranton,Mr.,2
+Scranton,Mrs.,1
+Dry Run,Ms.,1
+East Glenville,Mrs.,1
+Tukwila,Mrs.,1
+Tukwila,Ms.,2
+Andover,Mrs.,1
+Baton Rouge,Mrs.,2
+Baton Rouge,Ms.,2
+Baton Rouge,Mr.,2
+St Petersburg,Mr.,2
+Queens,Mr.,1
+Pompano Beach,Mr.,1
+Pompano Beach,Mrs.,1
+Pompano Beach,Ms.,1
+Memphis,Ms.,4
+Memphis,Mr.,3
+Memphis,Dr.,1
+Memphis,Mrs.,1
+Saint Louis,Mr.,7
+Saint Louis,Mrs.,3
+Saint Louis,Ms.,3
+Merchantville,Mrs.,1
+Merchantville,Mr.,1
+Merchantville,Dr.,1
+Merchantville,Ms.,1
+Fort Lauderdale,Mr.,3
+Fort Lauderdale,Mrs.,1
+Bridgeport,Mr.,1
+Texas City,Mrs.,1
+Texas City,Mr.,1
+Hennepin,Mr.,1
+Pittsburgh,Mrs.,6
+Pittsburgh,Mr.,9
+Pittsburgh,Ms.,1
+Lake Villa,Mr.,1
+Lake Villa,Mrs.,1
+Montesano,Ms.,1
+Bakersfield,Mr.,4
+Bakersfield,Mrs.,1
+Haledon,Mr.,1
+Haledon,Ms.,1
+Camden,Ms.,4
+Camden,Mr.,3
+Camden,Mrs.,2
+Houston,Ms.,9
+Houston,Dr.,2
+Houston,Mr.,20
+Houston,Mrs.,10
+Beech Island,Mrs.,1
+Washington,Mrs.,2
+Washington,Ms.,8
+Washington,Mr.,13
+Washington,Dr.,1
+Eagle,Mr.,1
+Mobile,Mrs.,1
+Mobile,Mr.,2
+Mobile,Ms.,1
+Los Angeles,Mrs.,9
+Los Angeles,Mr.,20
+Los Angeles,Ms.,12
+Cameron,Mrs.,1
+Cameron,Mr.,1
+Teterboro,Mr.,2
+Lake Alfred,Mr.,1
+Phoenix,Mr.,11
+Phoenix,Mrs.,6
+Phoenix,Ms.,1
+Chandler,Mr.,2
+Fort Wayne,Mr.,2
+Fort Wayne,Ms.,1
+Cherry Tree,Mr.,1
+Tallahassee,Mrs.,1
+Tallahassee,Mr.,3
+Austin,Mr.,8
+Austin,Ms.,3
+Austin,Mrs.,1
+Irving,Mr.,3
+Providence,Mr.,3
+Providence,Ms.,2
+Providence,Mrs.,3
+Harlingen,Mr.,1
+Harlingen,Ms.,1
+Bodcaw,Ms.,1
+Maple Shade,Mr.,1
+Ocean Springs,Mrs.,1
+Bethpage,Mr.,1
+South Pasadena,Ms.,1
+Fort Worth,Mr.,5
+Zenda,Dr.,1
+Dimondale,Mr.,1
+Mercer Island,Mrs.,1
+Portland,Ms.,7
+Portland,Mr.,9
+Portland,Mrs.,4
+Bay City,Mrs.,1
+Bay City,Mr.,2
+Decatur,Mr.,2
+Decatur,Ms.,1
+Decatur,Mrs.,1
+Woburn,Mr.,3
+Altoona,Ms.,1
+Altoona,Mr.,5
+Altoona,Mrs.,1
+Little Rock,Ms.,2
+Little Rock,Mrs.,4
+Little Rock,Mr.,3
+Chantilly,Mrs.,2
+Chantilly,Mr.,2
+Ulysses,Mr.,1
+Statesboro,Ms.,1
+Duddleyville,Mr.,1
+Springfield,Mr.,8
+Springfield,Ms.,1
+Springfield,Mrs.,2
+Greenwood,Mr.,2
+Greenwood,Ms.,1
+Simpsonville,Ms.,1
+Arroyo Grande,Ms.,1
+Wyanet,Mrs.,1
+Albuquerque,Mr.,6
+Albuquerque,Mrs.,1
+Albuquerque,Ms.,1
+South Bend,Mr.,1
+San Francisco,Mrs.,5
+San Francisco,Dr.,2
+San Francisco,Mr.,12
+San Francisco,Ms.,2
+Fremont,Mr.,1
+Evansville,Mr.,5
+Evansville,Ms.,1
+Evansville,Mrs.,1
+Bettsville,Mrs.,1
+Danville,Mr.,1
+Danville,Ms.,1
+Danville,Mrs.,1
+Sacramento,Mr.,6
+Sacramento,Mrs.,5
+Sacramento,Ms.,2
+Sacramento,Dr.,1
+Tampa,Mr.,6
+Tampa,Mrs.,5
+Tampa,Ms.,3
+Tampa,Dr.,1
+Daytona Beach,Mr.,1
+Daytona Beach,Mrs.,1
+Steelton,Mr.,1
+Victoria,Ms.,1
+Victoria,Mr.,1
+Victoria,Mrs.,1
+Victoria,Dr.,1
+Armstrong,Mr.,1
+Deming,Mr.,1
+North Little Rock,Ms.,1
+Huntsville,Mr.,3
+Huntsville,Mrs.,1
+Tifton,Mr.,1
+Santa Ana,Dr.,1
+Santa Ana,Ms.,2
+Santa Ana,Mr.,3
+Reese,Mr.,1
+White Oak,Mrs.,1
+Thomasville,Mrs.,1
+Thomasville,Mr.,1
+Kalamazoo,Ms.,1
+Oakland,Dr.,1
+Oakland,Ms.,8
+Oakland,Mr.,2
+Oakland,Mrs.,5
+Albany,Mr.,7
+Albany,Mrs.,1
+Albany,Dr.,2
+Albany,Ms.,2
+Tulsa,Mr.,5
+Tulsa,Mrs.,1
+Tulsa,Ms.,1
+Charleston,Mr.,2
+Charleston,Mrs.,1
+Cannon Falls,Mr.,1
+Longmont,Mr.,1
+Encinitas,Ms.,1
+Canal Winchester,Ms.,1
+Thief River Falls,Ms.,1
+Grand Rapids,Ms.,7
+Grand Rapids,Mr.,4
+Grand Rapids,Mrs.,2
+Bedminster,Ms.,1
+Candia,Mr.,1
+Lawford,Mrs.,1
+Athens,Ms.,2
+Athens,Mr.,2
+Athens,Mrs.,1
+Poughkeepsie,Ms.,1
+Poughkeepsie,Mr.,2
+Plano,Mr.,4
+Plano,Ms.,1
+Stone Mountain,Mrs.,1
+Schaumburg,Ms.,1
+Schaumburg,Mrs.,2
+Schaumburg,Mr.,2
+Pontiac,Mr.,1
+Pontiac,Ms.,2
+New Berlin,Mrs.,1
+New Berlin,Ms.,2
+New Berlin,Mr.,1
+Elgin,Mrs.,1
+Elgin,Ms.,2
+Oak Hill,Mr.,1
+Norcross,Mr.,2
+Norcross,Ms.,1
+Norcross,Mrs.,1
+Sand Creek,Mr.,1
+Newark,Ms.,3
+Newark,Mr.,7
+Newark,Mrs.,2
+Hesston,Mr.,1
+Carmi,Ms.,1
+Richmond,Mr.,9
+Richmond,Mrs.,3
+Richmond,Ms.,4
+Richmond,Dr.,1
+Mcgehee,Mrs.,1
+Stlouis,Mr.,4
+Cambridge,Mr.,12
+Cambridge,Ms.,4
+Cambridge,Mrs.,2
+White Plains,Mrs.,2
+White Plains,Dr.,1
+White Plains,Mr.,1
+Brookings,Mr.,1
+Mankato,Mr.,1
+Mankato,Ms.,1
+Birmingham,Ms.,6
+Birmingham,Mr.,11
+Birmingham,Mrs.,4
+Hollywood,Mr.,2
+Colby,Mr.,1
+Colby,Ms.,1
+Gage,Mr.,1
+Tipton,Dr.,1
+Bradford,Mr.,1
+Cass Lake,Mrs.,1
+Glendale,Mr.,2
+Indianapolis,Mrs.,3
+Indianapolis,Ms.,4
+Indianapolis,Mr.,6
+Colchester,Mr.,2
+Myersville,Mr.,1
+Ft Lauderdale,Mrs.,1
+Ft Lauderdale,Mr.,1
+Eau Claire,Ms.,1
+Eau Claire,Mrs.,1
+Eau Claire,Mr.,1
+Lewisville,Mr.,3
+Lincolnville Beach,Mr.,1
+Cleveland,Ms.,6
+Cleveland,Mr.,6
+Cleveland,Mrs.,4
+Waltham,Dr.,2
+Grand Prairie,Ms.,2
+Grand Prairie,Mr.,2
+Staten Island,Mr.,2
+Staten Island,Mrs.,1
+New Braunfels,Mr.,1
+Opelika,Mr.,1
+State College,Mr.,1
+Brockton,Mr.,1
+Colorado Springs,Ms.,2
+Colorado Springs,Mrs.,1
+Sadieville,Mr.,1
+Acton,Mr.,1
+Acton,Ms.,1
+Meridian,Mr.,2
+Bellevue,Ms.,1
+Jackson,Mrs.,9
+Jackson,Mr.,6
+Jackson,Ms.,1
+Jackson,Dr.,1
+Burr Ridge,Mr.,6
+Burr Ridge,Mrs.,1
+Burr Ridge,Ms.,1
+Rohnert Park,Ms.,1
+Stockton,Mr.,4
+Stockton,Ms.,1
+Colton,Ms.,1
+Wayland,Mr.,1
+Chase,Mr.,1
+Round Lake,Mr.,1
+Palm Springs,Mr.,2
+Palm Springs,Ms.,1
+North Haverhill,Mrs.,1
+Green Bay,Mrs.,3
+Green Bay,Ms.,1
+Enola,Ms.,1
+Madison,Mr.,2
+Madison,Ms.,3
+Madison,Mrs.,1
+Corpus Christi,Mrs.,4
+Corpus Christi,Mr.,4
+Corpus Christi,Dr.,1
+Corpus Christi,Ms.,2
+Dolan Springs,Mrs.,1
+Dolan Springs,Mr.,1
+Staunton,Ms.,1
+Winston Salem,Dr.,1
+Winston Salem,Mr.,1
+Weehawken,Mrs.,3
+Weehawken,Mr.,1
+El Paso,Mr.,3
+El Paso,Mrs.,1
+El Paso,Ms.,1
+Exeter,Mrs.,1
+Saint Cloud,Ms.,3
+Saint Cloud,Mr.,2
+Saint Cloud,Mrs.,1
+Las Vegas,Dr.,1
+Las Vegas,Mrs.,4
+Las Vegas,Mr.,5
+Martin,Mr.,1
+Columbus,Mr.,5
+Columbus,Ms.,5
+Columbus,Mrs.,1
+Eagleville,Mr.,3
+Eagleville,Ms.,2
+Ridgeland,Mr.,1
+Kwigillingok,Ms.,1
+New Orleans,Mrs.,2
+New Orleans,Mr.,1
+Hickory Hills,Mr.,3
+Hickory Hills,Ms.,1
+Ocala,Mr.,3
+Lyndhurst,Mr.,3
+Hattiesburg,Ms.,2
+Hattiesburg,Mr.,2
+Hattiesburg,Mrs.,1
+Suitland,Mrs.,1
+Gardner,Dr.,1
+Minot,Mr.,1
+Norristown,Mr.,2
+Milford,Ms.,1
+Idaho Falls,Mr.,1
+Mexico,Dr.,1
+Harrisburg,Mr.,3
+Harrisburg,Mrs.,1
+Harrisburg,Ms.,2
+Tigard,Mr.,2
+Tigard,Mrs.,2
+Tigard,Dr.,1
+Euless,Mr.,1
+Salem,Ms.,1
+Salem,Mrs.,1
+Mercer,Mr.,1
+Macdoel,Dr.,1
+Shreveport,Mr.,2
+Shreveport,Dr.,1
+Shreveport,Mrs.,1
+Greeley,Mrs.,2
+Greeley,Ms.,1
+Sherman,Mr.,2
+Milton,Mr.,1
+Jacksonville,Mrs.,6
+Jacksonville,Ms.,2
+Jacksonville,Mr.,8
+Marlton,Mrs.,1
+Crafton,Mrs.,1
+Crafton,Mr.,1
+Pomona,Mrs.,1
+Milledgeville,Mrs.,1
+Ivanhoe,Ms.,1
+West Concord,Mrs.,1
+South Deerfield,Mrs.,1
+South Deerfield,Ms.,1
+Buffalo,Mr.,3
+Warminster,Mr.,1
+Warminster,Ms.,2
+Dutton,Mr.,1
+Artesian,Mr.,1
+Dorchester,Mr.,1
+Dorchester,Mrs.,1
+San Jose,Mrs.,3
+San Jose,Dr.,1
+San Jose,Mr.,3
+San Jose,Ms.,2
+La Mesa,Mr.,2
+Akron,Mr.,5
+Akron,Ms.,1
+Akron,Dr.,1
+West Palm Beach,Mr.,3
+Greenville,Mr.,5
+Greenville,Mrs.,2
+Greenville,Ms.,2
+Lakewood,Mr.,3
+Berlin,Ms.,1
+Lexington,Mr.,5
+Lexington,Mrs.,2
+Lexington,Dr.,1
+Lexington,Ms.,2
+Flint,Mr.,1
+Moorestown,Mrs.,1
+Garden City,Ms.,4
+Garden City,Mr.,4
+Garden City,Dr.,1
+Garden City,Mrs.,1
+Naper,Mr.,1
+Raleigh,Mr.,4
+Raleigh,Ms.,2
+East Providence,Mr.,2
+East Providence,Mrs.,1
+Alexandria,Mr.,5
+Alexandria,Ms.,1
+Tamora,Ms.,1
+Smyrna,Mr.,2
+El Cajon,Mr.,1
+Chassell,Ms.,1
+Oakley,Mr.,1
+Eden Prairie,Mrs.,1
+Eden Prairie,Mr.,1
+Bethlehem,Mr.,1
+Huntington,Mrs.,1
+Huntington,Dr.,1
+Huntington,Mr.,3
+Imperial Beach,Mr.,1
+Detroit,Mrs.,3
+Detroit,Dr.,1
+Detroit,Mr.,6
+Detroit,Ms.,1
+Durham,Mrs.,2
+Durham,Ms.,1
+Concord,Mr.,2
+Concord,Ms.,2
+Concord,Mrs.,1
+Southfield,Ms.,5
+Southfield,Mr.,8
+Southfield,Mrs.,3
+Cook,Mr.,1
+Kansas City,Mrs.,5
+Kansas City,Mr.,8
+Kansas City,Ms.,4
+Greensboro,Mr.,5
+Greensboro,Ms.,3
+Coleridge,Mr.,1
+Golden Valley,Mrs.,1
+Golden Valley,Ms.,1
+Nuangola,Mr.,1
+Florence,Ms.,1
+Florence,Mr.,2
+Taylor,Mr.,1
+Syracuse,Mrs.,6
+Syracuse,Mr.,1
+Centerville,Ms.,2
+Brooklyn,Mr.,3
+Wadena,Mr.,1
+De Pere,Ms.,1
+Waipahu,Mr.,1
+Monterey,Mrs.,1
+Texhoma,Mrs.,1
+Worcester,Mr.,1
+Worcester,Mrs.,1
+Deerfield Beach,Mr.,1
+Deerfield Beach,Ms.,1
+Gulfport,Mr.,3
+Gulfport,Ms.,1
+North Miami,Mr.,2
+Wilmington,Ms.,1
+Wilmington,Mr.,3
+Wilmington,Mrs.,1
+Wilmington,Dr.,1
+Eminence,Ms.,1
+Angleton,Ms.,1
+Menasha,Mrs.,1
+Menasha,Mr.,1
+Richland Center,Mrs.,1
+West Blocton,Dr.,1
+Burbank,Mr.,3
+Burbank,Mrs.,2
+Burbank,Ms.,1
+Burbank,Dr.,1
+Saint Clairsville,Mr.,1
+Saint Clairsville,Mrs.,1
+Dixon,Dr.,1
+Norwalk,Mr.,2
+Norwalk,Ms.,1
+Mesquite,Mr.,1
+Scottsboro,Ms.,1
+Dry Creek,Mrs.,1
+Woodland Hills,Mr.,1
+Clinton,Mr.,1
+Clinton,Mrs.,3
+Clinton,Ms.,1
+Hazelwood,Mr.,1
+Hazelwood,Ms.,1
+Holton,Ms.,1
+Rockford,Ms.,1
+Rockford,Mr.,1
+Mount Pleasant,Mrs.,1
+Plummer,Mr.,1
+Lafayette,Mrs.,1
+Lafayette,Ms.,2
+Lafayette,Mr.,2
+Lubbock,Ms.,1
+Lubbock,Mr.,1
+Lubbock,Dr.,1
+Dawson,Ms.,1
+Asheville,Mr.,2
+Asheville,Ms.,1
+Asheville,Mrs.,1
+Chico,Mrs.,1
+Chico,Mr.,1
+Hot Springs,Mr.,1
+Hot Springs,Ms.,1
+Auburn,Mr.,3
+Newbury Park,Mr.,1
+Newbury Park,Mrs.,1
+Chicopee,Ms.,2
+Hobbs,Mr.,1
+Hobbs,Mrs.,1
+Port Angeles,Ms.,1
+Port Angeles,Mr.,1
+Tucson,Mr.,3
+Tucson,Ms.,1
+Tucson,Mrs.,1
+Hamlin,Ms.,1
+El Monte,Mr.,1
+Orlando,Mr.,5
+Orlando,Ms.,4
+Orlando,Dr.,1
+Orlando,Mrs.,1
+Wakefield,Mr.,1
+Bloomfield Township,Mr.,3
+Port Charlotte,Mr.,1
+Columbia,Mr.,6
+Columbia,Ms.,1
+Columbia,Mrs.,1
+Catlettsburg,Ms.,1
+Brookhaven,Mrs.,1
+Bismarck,Mr.,1
+Bismarck,Mrs.,1
+Horsham,Ms.,1
+Rochelle Park,Mr.,2
+Rochelle Park,Mrs.,1
+Honolulu,Mr.,1
+Honolulu,Ms.,5
+Honolulu,Mrs.,2
+Jonestown (Lebanon),Mr.,1
+Lynbrook,Mr.,1
+Lennox,Mr.,1
+Mammoth Lakes,Mr.,1
+Galveston,Ms.,1
+Fort Walton Beach,Mrs.,1
+Fort Walton Beach,Ms.,1
+Savannah,Mr.,1
+Savannah,Ms.,3
+Savannah,Mrs.,1
+Stamford,Mr.,3
+Dayton,Mrs.,4
+Dayton,Mr.,3
+Dayton,Ms.,3
+Anaheim,Ms.,2
+Anaheim,Mr.,5
+Bohemia,Mr.,4
+Bohemia,Ms.,2
+Wheeling,Mr.,2
+New Hebron,Mr.,1
+Rockville,Dr.,1
+Somerset,Mr.,2
+N. Miami,Ms.,1
+N. Miami,Mr.,1
+Baggs,Mr.,2
+Reno,Mr.,2
+Reno,Ms.,1
+Fayetteville,Mr.,5
+Fayetteville,Mrs.,1
+Fayetteville,Ms.,1
+South New Berlin,Ms.,1
+Baltimore,Mr.,5
+Baltimore,Ms.,3
+Baltimore,Mrs.,2
+New Holland,Mr.,1
+Santa Monica,Mr.,1
+New Stuyahok,Mr.,1
+New Fairfield,Mr.,1
+Fredericksburg,Ms.,1
+Fredericksburg,Mr.,1
+Norman,Mr.,1
+Porter,Ms.,1
+Chatham,Mrs.,1
+Amite,Mr.,1
+Sealy,Dr.,1
+Stanley,Mrs.,1
+North Pole,Mr.,1
+Chehalis,Mr.,1
+Iowa City,Mr.,1
+Rocky Mount,Ms.,3
+Rocky Mount,Mr.,2
+Rocky Mount,Mrs.,1
+Chattanooga,Mrs.,1
+Chattanooga,Ms.,4
+Doral,Mr.,1
+Charlotte,Mr.,7
+Charlotte,Mrs.,5
+Charlotte,Dr.,1
+Charlotte,Ms.,3
+Elmsford,Mr.,2
+Alleghany,Mr.,1
+Stuart,Mr.,1
+Stuart,Mrs.,1
+Arlee,Dr.,1
+Andalusia,Mrs.,1
+Midland,Mr.,3
+Midland,Ms.,1
+Turton,Mr.,1
+Fergus Falls,Mrs.,1
+Dalhart,Mr.,1
+Reston,Mr.,2
+Standish,Mrs.,1
+West Los Angeles,Mr.,1
+Dublin,Mrs.,1
+Joiner,Mr.,1
+Perry Heights,Mr.,1
+Elkin,Dr.,1
+Colville,Mr.,1
+Owatonna,Ms.,1
+Owatonna,Mrs.,1
+Fillmore,Ms.,1
+Ontario,Mrs.,1
+Ontario,Dr.,1
+Ontario,Mr.,1
+Allegheny,Ms.,1
+Riverside,Ms.,2
+Riverside,Mrs.,1
+Claremore,Mr.,1
+Truckee,Ms.,1
+Avon,Ms.,2
+Avon,Mr.,1
+Hayward,Mr.,1
+Salt Lake City,Mrs.,4
+Salt Lake City,Mr.,4
+Salt Lake City,Ms.,2
+Spencer,Mrs.,1
+Frisco,Mrs.,1
+Roseville,Mr.,2
+Meadows Of Dan,Mrs.,1
+North Billerica,Mr.,1
+Beaumont,Mr.,4
+Beaumont,Dr.,1
+Beaumont,Ms.,1
+Charleroi,Mrs.,1
+Westbury,Mr.,4
+Westbury,Mrs.,2
+Westbury,Ms.,1
+Dixfield,Ms.,1
+Castle Dale,Mrs.,1
+Missouri Valley,Mr.,1
+Cedar Knolls,Mr.,1
+Jaffrey,Dr.,1
+Youngstown,Ms.,1
+Youngstown,Mr.,1
+Sunnyvale,Ms.,2
+Texarkana,Mrs.,1
+Texarkana,Mr.,1
+Smithville,Mr.,1
+Fort Lee,Mr.,1
+Sarasota,Ms.,1
+Sarasota,Mr.,1
+Oklahoma City,Mr.,2
+Oklahoma City,Mrs.,3
+Livonia,Mr.,1
+Livonia,Mrs.,2
+Cascade,Ms.,1
+Traverse City,Mr.,2
+Syosset,Mrs.,2
+Syosset,Dr.,1
+Barnum,Ms.,1
+Lombard,Ms.,1
+Lombard,Mr.,2
+Pittston,Mrs.,1
+Endicott,Mr.,1
+Clute,Mr.,1
+Campo,Mr.,1
+Pratt,Mr.,1
+Hitterdal,Mr.,1
+Northbrook,Mr.,2
+Northbrook,Ms.,1
+Ransom,Mr.,1
+Wake Forest,Mr.,1
+San Bruno,Mrs.,1
+Yakima,Mr.,1
+Gambier,Ms.,1
+Gambier,Mr.,1
+Edwardsville,Mr.,1
+Elk Lake,Mrs.,1
+Mcclung,Mrs.,1
+Mount Airy,Mrs.,1
+Mount Airy,Ms.,1
+Ovid,Mr.,1
+Knoxville,Mrs.,2
+Knoxville,Mr.,3
+Knoxville,Ms.,2
+Crozet,Mrs.,1
+Crozet,Ms.,1
+Milan,Ms.,1
+Bellflower,Mrs.,1
+North Naples,Ms.,1
+Spring Hope,Mr.,1
+Coffeyville,Mr.,1
+Eugene,Mr.,1
+Maryville,Dr.,1
+Maryville,Mr.,2
+Framingham,Mrs.,1
+Brookfield,Ms.,1
+Brookfield,Mr.,1
+Metairie,Ms.,2
+Metairie,Mr.,4
+Miramar,Ms.,1
+Miramar,Mr.,1
+Miramar,Mrs.,1
+West Enfield,Ms.,1
+West Enfield,Mr.,1
+Norwood,Mr.,1
+Bridgeville,Mrs.,2
+Bridgeville,Mr.,1
+Westborough,Mr.,1
+Copemish,Mrs.,1
+Amarillo,Mr.,1
+Bensenville,Ms.,3
+Bensenville,Mr.,3
+Chula Vista,Ms.,1
+Culver City,Ms.,1
+Princeton,Mr.,1
+Stroudsburg,Mrs.,1
+Stroudsburg,Mr.,1
+Warner Robins,Mrs.,1
+Bluffton,Mr.,1
+Shawnee,Mrs.,1
+West Valley City,Ms.,1
+West Valley City,Mrs.,1
+West Valley City,Mr.,1
+Lake City,Mr.,1
+Rome,Mr.,1
+Rancho Cucamonga,Mr.,1
+Old Orchard Beach,Mrs.,1
+Beverly Hills,Mr.,2
+Baylis,Mrs.,1
+Baylis,Mr.,1
+Laurel,Ms.,1
+Laurel,Mrs.,2
+Port St Lucie,Ms.,1
+Port St Lucie,Mrs.,1
+Liberty Pole,Mr.,1
+Leesburg,Ms.,1
+Hamlet,Mr.,1
+Angelica,Mr.,1
+Deerfield,Ms.,1
+Deerfield,Mr.,2
+Santa Fe Springs,Mr.,1
+Gardena,Mrs.,3
+Gardena,Mr.,5
+West Brunswick Twp,Ms.,1
+Randall,Ms.,1
+Bloomingdale,Ms.,1
+Hartford,Mrs.,2
+Hartford,Mr.,2
+Hartford,Dr.,1
+Hartford,Ms.,1
+Des Moines,Mr.,1
+Des Moines,Ms.,1
+Paducah,Mr.,1
+Belle,Ms.,1
+Roswell,Mrs.,1
+Canton,Mrs.,2
+Canton,Mr.,2
+Canton,Ms.,1
+Melbourne,Mr.,1
+Alberta,Mr.,1
+South Boston,Ms.,2
+Waxahachie,Mr.,1
+Montgomery,Mr.,4
+Montgomery,Mrs.,2
+Montgomery,Dr.,1
+Montgomery,Ms.,3
+Plant City,Ms.,1
+Plant City,Mr.,1
+Plant City,Mrs.,1
+Richardson,Mr.,1
+Richardson,Ms.,2
+Richardson,Mrs.,1
+New Bern,Mr.,1
+Westerlo,Mr.,1
+Hialeah,Mr.,1
+Hialeah,Ms.,2
+Franklin Boro,Mr.,1
+Lititz,Ms.,1
+Boca Raton,Mrs.,3
+Boca Raton,Ms.,1
+Boca Raton,Mr.,1
+Manhasset,Mr.,1
+Peoria,Mr.,1
+Peoria,Ms.,2
+Kearney,Mr.,2
+Craigsville,Ms.,1
+West Springfield,Mr.,1
+Salinas,Mr.,2
+Salinas,Ms.,1
+Salinas,Mrs.,1
+Wister,Ms.,1
+Marlboro,Mrs.,1
+Germantown,Mr.,1
+Great Falls,Ms.,1
+Aurora,Ms.,1
+Irene,Mrs.,1
+Harrison (Twp) Montgomery,Ms.,1
+Harrison (Twp) Montgomery,Mr.,1
+Lenexa,Mr.,1
+Lenexa,Mrs.,1
+Watertown,Mrs.,1
+Watertown,Mr.,2
+Carrollton,Ms.,1
+North Branch,Mrs.,1
+Killduff,Mr.,1
+Selden,Mr.,1
+Harahan,Mr.,1
+Lake Hughes,Mrs.,1
+Waverly,Mr.,1
+Slidell,Ms.,1
+Cactus,Mr.,1
+Coeur D Alene,Mrs.,1
+Sandisfield,Ms.,1
+Belleview,Mr.,1
+Sheffield,Mr.,1
+Arlington,Mrs.,3
+Arlington,Ms.,5
+Arlington,Mr.,4
+Paterson,Mr.,1
+Tomball,Mrs.,1
+Connell,Mrs.,1
+Coos Bay,Mr.,1
+Sunrise,Ms.,1
+Morgantown,Mr.,1
+Placentia,Dr.,1
+Winchester,Mr.,1
+Winchester,Mrs.,1
+Phila,Mr.,1
+Fall River,Mr.,2
+Fall River,Mrs.,1
+Boise,Mr.,1
+Boise,Ms.,1
+Gloucester City,Mrs.,1
+Geneva,Mrs.,1
+Geneva,Mr.,1
+Sherman Mills,Mr.,1
+Torrance,Ms.,1
+Hemingway,Ms.,1
+Vernon,Mrs.,1
+Coral Gables,Mr.,1
+Starkville,Ms.,1
+Otis,Mr.,1
+Cedar Hill,Mr.,1
+Jonesboro,Mrs.,2
+Jonesboro,Ms.,1
+Toledo,Ms.,3
+Toledo,Dr.,1
+Toledo,Mr.,3
+Toledo,Mrs.,1
+Lorain,Mr.,2
+Westchester,Mrs.,1
+Westchester,Mr.,1
+South Hill,Mr.,1
+Goodwins Mills,Mr.,1
+Danvers,Ms.,1
+North Sumter,Mr.,1
+Sanibel,Mrs.,1
+Westbrook,Mrs.,1
+Omaha,Mr.,4
+Omaha,Mrs.,2
+Omaha,Dr.,1
+Spokane,Mrs.,1
+Spokane,Mr.,3
+Spokane,Ms.,1
+Oaktown,Mr.,1
+Centennial,Ms.,1
+Centennial,Mr.,2
+Centennial,Mrs.,2
+Farmington,Ms.,1
+Grand Haven,Mr.,1
+Marion,Ms.,2
+Marion,Mrs.,1
+Chamblee,Mr.,1
+Baldwin,Mr.,1
+Garner,Mr.,1
+Belleville,Mr.,1
+Hope,Mr.,1
+Bolton,Mr.,1
+Brooklyn Center,Mr.,1
+Marana,Ms.,1
+Essex,Mr.,1
+Osyka,Ms.,1
+Greenfield,Ms.,1
+Lake Almanor,Mrs.,1
+New Town,Ms.,1
+Sayreville,Mrs.,1
+Sayreville,Mr.,1
+Mclean,Ms.,1
+Mclean,Mr.,1
+Loma Linda,Ms.,1
+Loma Linda,Mrs.,1
+Franklin,Mrs.,1
+Franklin,Mr.,2
+Englewood,Mrs.,1
+Orem,Mr.,1
+Tupelo,Mr.,1
+Appleton,Mr.,1
+Appleton,Mrs.,2
+Appleton,Dr.,1
+Saint Stephen,Mr.,1
+Strang,Mr.,1
+Naperville,Mr.,1
+Damascus,Mr.,1
+Pecatonica,Mr.,2
+Pollard,Ms.,1
+Ashburn,Ms.,1
+Ashburn,Mrs.,1
+Jupiter,Mr.,1
+Sugar Land,Ms.,1
+Sugar Land,Mrs.,1
+Van Nuys,Ms.,1
+Van Nuys,Mr.,1
+Van Nuys,Mrs.,1
+Fullerton,Ms.,1
+Fullerton,Mr.,1
+Shelbyville,Ms.,1
+Scottsdale,Ms.,1
+Scottsdale,Mrs.,2
+Scottsdale,Mr.,1
+River Grove,Mr.,2
+Gwinn,Mr.,1
+Nelvik,Mr.,1
+Magnolia,Mr.,1
+Magnolia,Mrs.,1
+Valdosta,Mr.,3
+Saint Johns,Mr.,1
+Bedford,Ms.,3
+Bedford,Dr.,2
+Bedford,Mr.,1
+Pine Bluff,Ms.,2
+Pine Bluff,Mr.,1
+Duluth,Mr.,3
+Duluth,Ms.,1
+Modesto,Mr.,1
+Marshall,Ms.,1
+Pullman,Mrs.,1
+Pikesville,Ms.,1
+Plymouth,Mr.,1
+Plymouth,Mrs.,1
+Plymouth,Ms.,2
+Allentown,Mr.,1
+Bloomington,Ms.,1
+Bloomington,Mr.,1
+Shelton,Mr.,1
+Sunnyside,Mr.,1
+West Sacramento,Mrs.,1
+West Sacramento,Mr.,1
+Ben Franklin,Mr.,1
+Webberville,Mr.,1
+Leedey,Mr.,1
+Rogers,Mr.,1
+Azle,Mr.,1
+Anchorage,Ms.,1
+Hopkinsville,Mr.,1
+Midwest,Mr.,1
+Mcallen,Ms.,2
+Mcallen,Mrs.,1
+Westerville,Ms.,1
+Marquette,Mrs.,1
+Marquette,Ms.,2
+Marquette,Mr.,1
+Dekalb,Mr.,1
+Tomah,Mr.,1
+Augusta,Mr.,4
+Augusta,Mrs.,1
+South Euclid,Ms.,1
+Miami Springs,Mr.,1
+Lock Haven,Mr.,1
+Sumner,Mrs.,1
+Lindstrom,Mr.,1
+Lansing,Mr.,3
+New Haven,Mrs.,1
+New Haven,Ms.,1
+Stone Creek,Mr.,1
+Enumclaw,Mrs.,1
+Jasper,Mr.,1
+Jasper,Ms.,1
+Murray,Ms.,1
+Murray,Mr.,1
+Farmers Branch,Mrs.,1
+Angola,Ms.,1
+Escondido,Mrs.,1
+Arcola,Mr.,1
+Silver Spring,Mrs.,1
+Westland,Mr.,3
+Christoval,Mrs.,1
+Frazee,Mr.,1
+Hilliard,Ms.,1
+Santa Barbara,Mr.,1
+Santa Barbara,Dr.,1
+Marshallville,Dr.,1
+Libertyville,Ms.,1
+Polk City,Ms.,2
+Polk City,Mrs.,1
+Outlook,Mr.,1
+Glens Falls,Mr.,1
+Fort Myers,Mrs.,3
+Fort Myers,Mr.,2
+Toccoa,Mr.,1
+Souris,Mrs.,1
+Dearborn,Mr.,2
+Matthews,Ms.,1
+Ocean Shores,Mr.,1
+Saint Paul,Mr.,1
+Saint Paul,Ms.,1
+Mcneil,Ms.,1
+Katy,Mrs.,1
+Jamaica,Ms.,1
+Mount Union,Mr.,1
+Redwood City,Mrs.,1
+Emmons,Ms.,1
+Kanawha,Mrs.,2
+Warrensville Heights,Ms.,1
+Warrensville Heights,Mrs.,2
+Marshalltown,Mr.,1
+Abbeville,Ms.,1
+Tunica,Ms.,1
+Tunica,Mr.,1
+Laughlin,Mr.,1
+Wright,Mr.,1
+Indian Valley,Mrs.,1
+South Burlington,Ms.,1
+Dexter,Mr.,1
+Woodlawn,Ms.,1
+Wallingford,Mr.,1
+Wallingford,Ms.,1
+Warren,Mr.,1
+Edinburg,Ms.,1
+Granby,Mr.,1
+Jefferson City,Mr.,1
+Huger,Mr.,1
+Oak Brook,Mr.,2
+West Chester,Ms.,1
+Adams,Mr.,2
+Spur,Ms.,1
+Cedar Rapids,Mrs.,1
+Olyphant,Mrs.,1
+Bridgeview,Mr.,1
+Garfield Heights,Dr.,1
+Garfield Heights,Ms.,2
+Bryan,Mrs.,2
+Linwood,Ms.,1
+Belmont,Mrs.,1
+Belle Prairie,Mrs.,1
+West Allis,Mr.,2
+West Allis,Mrs.,1
+Lakeland,Dr.,1
+Lakeland,Mr.,1
+Lakeland,Mrs.,1
+Lehi,Mr.,2
+Lehi,Ms.,1
+Locust Grove,Mrs.,1
+Burr,Mr.,1
+Carlsbad,Ms.,1
+Carlsbad,Mrs.,2
+Ashby,Mr.,1
+Lumberton,Mrs.,1
+Marshfield,Mrs.,1
+Warner,Mr.,1
+Wayne,Mrs.,1
+Wayne,Mr.,1
+Osceola,Dr.,1
+Benton Harbor,Mr.,1
+Sciotoville,Mr.,1
+Lula,Ms.,1
+Wapato,Mrs.,1
+Cusick,Mr.,1
+Branchburg,Mr.,1
+Branchburg,Mrs.,1
+Sheridan,Ms.,1
+Fresno,Mr.,4
+Fresno,Mrs.,1
+Fresno,Ms.,2
+Kingsport,Mr.,2
+Billings,Mr.,2
+Bradenton,Mrs.,1
+Cherryville,Mrs.,1
+Byron,Mr.,1
+Saint Petersburg,Mr.,1
+Weatherford,Mrs.,1
+National City,Ms.,1
+Teague,Mr.,1
+Rancho Dominguez,Mr.,2
+Holbrook,Ms.,1
+Thornwell,Ms.,1
+Monroe,Mr.,1
+Palmdale,Mr.,1
+Marrero,Mr.,1
+Annapolis Junction,Mr.,1
+Arma,Mr.,1
+Biloxi,Ms.,1
+Biloxi,Dr.,1
+Carrizozo,Mrs.,1
+Elizabethtown,Mr.,1
+Nelsonville,Mr.,1
+Lorimor,Ms.,1
+Ronkonkoma,Mr.,1
+Shippensburg,Ms.,1
+Dunwoody,Mr.,2
+De Kalb,Ms.,1
+Bovill,Mr.,1
+Citrus Heights,Mr.,1
+South Wayne,Mrs.,1
+Beltsville,Mr.,3
+Henderson,Ms.,1
+Henderson,Mrs.,1
+Myrtle Beach,Mrs.,1
+Myrtle Beach,Mr.,1
+Muskegon Heights,Mr.,1
+Leavenworth,Ms.,1
+Leon,Mr.,1
+Rankin,Mrs.,1
+Lincoln,Mr.,1
+Waterbury,Mrs.,1
+Waterbury,Mr.,1
+Puyallup,Mr.,1
+Santa Rosa,Mrs.,1
+Alice,Ms.,1
+Mount Horeb,Dr.,1
+Victor,Mrs.,1
+Walnut Creek,Mr.,1
+De Soto,Mr.,1
+Fort Blackmore,Ms.,1
+Oxford,Mr.,3
+Savage,Mrs.,1
+Sioux City,Mr.,2
+Sioux City,Mrs.,1
+Sylvan Beach,Mrs.,1
+Reidsville,Mr.,1
+Pensacola,Ms.,1
+Pensacola,Mr.,2
+Pensacola,Mrs.,1
+Riverhead,Mrs.,1
+Medina,Ms.,1
+Rush City,Mrs.,1
+Dark Harbor,Ms.,1
+Conway,Mrs.,2
+Conway,Mr.,1
+Cliffside Park,Mrs.,1
+Havre,Mr.,1
+Mammoth,Mr.,1
+Dothan,Mr.,2
+Williston,Mrs.,1
+Glen Elder,Mr.,1
+Clyde Park,Mrs.,1
+Robertsville,Mr.,1
+Waukesha,Mr.,2
+Orange,Mr.,1
+Manly,Mr.,1
+Shepherdsville,Mr.,1
+Carmel,Mrs.,1
+Ravenna,Mrs.,1
+La Grange,Mrs.,1
+Newport,Mr.,1
+Harold,Ms.,1
+Harold,Mrs.,2
+Imperial,Mr.,1
+Nisswa,Mr.,1
+Martinez,Mrs.,1
+Cooksville,Ms.,1
+Rich Hill,Mrs.,1
+Lodi,Mr.,1
+Glendive,Mrs.,1
+Guin,Ms.,1
+Guin,Mrs.,1
+Bensalem,Mr.,1
+Clancy,Mrs.,1
+Lakeside Park,Mr.,1
+Horatio,Mr.,1
+North Dade,Mr.,1
+Farmer City,Mr.,1
+Grand Marais,Mr.,1
+Medford,Mrs.,1
+Galesburg,Mr.,1
+Adrian,Mrs.,1
+Adrian,Ms.,1
+Tofte,Dr.,1
+Plains,Ms.,1
+Racine,Ms.,1
+Topeka,Mr.,1
+Covington,Mr.,1
+Winona,Mr.,1
+Holyoke,Mr.,1
+Venice,Ms.,1
+La Crosse,Mrs.,1
+Brigantine,Mr.,1
+Elroy,Mr.,1
+Chewelah,Ms.,1
+Baytown,Mr.,1
+Meriden,Mr.,1
+Laguna Niguel,Mrs.,1
+Midlothian,Mr.,1
+Culpeper,Mrs.,1
+Johnson City,Mr.,2
+Cheyenne,Mr.,2
+Cheyenne,Mrs.,2
+Eureka,Ms.,2
+Shellman,Ms.,1
+Climax,Mr.,1
+Mound Valley,Mrs.,1
+Duffee,Ms.,1
+Piedmont,Mr.,1
+Everett,Ms.,1
+Lake Worth,Mrs.,1
+Troutville,Mr.,1
+Clearwater,Mr.,1
+Marlin,Mrs.,1
+Anderson,Mrs.,1
+Bowman,Ms.,1
+Davenport,Mrs.,1
+Dalton,Mr.,2
+Dalton,Dr.,1
+Lindsay,Mrs.,1
+Lomita,Mrs.,1
+Terminal,Mr.,1
+Canfield,Mr.,1
+San Angelo,Mr.,1
+Bourbon,Dr.,1
+Hinesville,Mrs.,1
+Blacksburg,Mr.,2
+Wellfleet,Ms.,1
+Burlington,Mrs.,3
+San Leandro,Mrs.,1
+Hickory,Mr.,1
+Evanston,Mrs.,1
+Evanston,Mr.,1
+Bayou Vista,Mr.,1
+Annandale,Ms.,1
+Peterborough,Mr.,1
+San Luis Obispo,Mr.,2
+San Luis Obispo,Mrs.,2
+Warwick,Ms.,1
+Glenwood Providence,Mr.,1
+Cheshire,Mr.,2
+Milbridge,Ms.,1
+Kecksburg,Mr.,1
+Mineola,Mr.,1
+Hemet,Mr.,1
+West Milford,Ms.,1
+Truth Or Consequences,Mrs.,1
+Townsend,Mrs.,1
+Crandon,Ms.,1
+Wolfeboro,Mr.,1
+Lake Station,Mr.,1
+Alhambra,Ms.,1
+Summerville,Mr.,1
+Waukegan,Ms.,1
+Sumter,Mr.,1
+Hamburg,Mrs.,1
+Americus,Mr.,1
+Culloden,Mr.,1
+Long Beach,Ms.,2
+Long Beach,Mrs.,1
+Sparks,Mr.,1
+Granite City,Mrs.,1
+Asheboro,Mrs.,1
+Asheboro,Ms.,1
+Camarillo,Ms.,1
+Nashua,Mrs.,1
+Littleton,Mr.,1
+Boardman,Ms.,1
+Boardman,Mr.,1
+Western Grove,Mrs.,1
+Arlington Heights,Mrs.,1
+Arlington Heights,Mr.,1
+Linthicum Heights,Mrs.,1
+Wright City,Mr.,1
+Sycamore,Ms.,1
+River Edge,Mrs.,1
+Daniel Island,Ms.,1
+Bridge City,Ms.,1
+Maryland Heights,Ms.,2
+Minden,Ms.,1
+Gilbert,Mrs.,1
+Wallace,Ms.,1
+Higbee,Ms.,1
+Vineland,Mr.,1
+Muskegon,Mr.,1
+Oberlin,Ms.,1
+Metaline Falls,Mr.,1
+Wilton,Mr.,1
+Walla Walla,Mr.,1
+Longview,Ms.,1
+Longview,Mr.,2
+Saco,Dr.,1
+Kissimmee,Mrs.,1
+Hydesville,Ms.,1
+Pittsburg,Ms.,1
+Pinellas,Mr.,1
+Slater,Mr.,1
+Lancaster,Mr.,1
+Brentwood,Mr.,1
+June Lake,Dr.,1
+Hanover Township,Ms.,1
+Hanover Township,Mr.,1
+Atmore,Mr.,1
+West Chicago,Dr.,1
+Thousand Oaks,Mr.,1
+Grand Island,Mr.,2
+Mountain City,Ms.,1
+Jefferson,Mrs.,1
+Wytheville,Ms.,1
+Gastonia,Ms.,1
+Elmhurst,Mr.,2
+Elmhurst,Mrs.,1
+Boynton Beach,Mrs.,1
+New Rochelle,Mr.,1
+Terre Haute,Mrs.,1
+Virginia Beach,Ms.,2
+Virginia Beach,Mrs.,1
+Killeen,Mr.,1
+Walterboro,Ms.,1
+Brooks,Mr.,1
+St George,Dr.,1
+Fedscreek,Mr.,1
+Johnstown,Ms.,1
+Bradley,Mr.,1
+Wood River,Mrs.,1
+Los Alamos,Mrs.,1
+Macomb,Ms.,1
+Hawleyton,Mrs.,1
+Champaign,Mrs.,1
+Maumee,Mr.,1
+Ventura,Ms.,1
+Newport Beach,Mr.,1
+Dunmor,Ms.,1
+Chesterfield,Mr.,1
+Poplar Ridge,Mr.,1
+Newton,Mr.,1
+Keene,Ms.,1
+Twin Falls,Ms.,1
+Goldendale,Mr.,1
+Wausau,Mrs.,1
+Wausau,Mr.,1
+Middlebury,Mr.,1
+Maple Heights,Ms.,1
+Clara City,Mrs.,1
+Jersey City,Mr.,3
+Marathon,Mr.,1
+North Bergen,Mrs.,1
+Higley,Mr.,1
+Mc Lean,Dr.,1
+Agawam,Ms.,1
+Alburnett,Dr.,1
+Redmond,Mr.,1
+Parker,Ms.,1
+Tempe,Ms.,1
+Tempe,Mr.,1
+Johnsonville,Ms.,1
+Durango,Mr.,1
+Maryneal,Ms.,1
+Gaithersburg,Mr.,1
+South Point,Mr.,1
+Hecla,Mr.,1
+Headrick,Mr.,1
+Mount Morris,Mr.,1
+Vancouver,Mr.,1
+Bliss,Mr.,2
+Yorktown Heights,Mr.,1
+Portsmouth,Mrs.,1
+Illiopolis,Mrs.,1
+Muncie,Ms.,1
+Buffalo Grove,Mrs.,1
+Buffalo Grove,Mr.,1
+Castaic,Mr.,1
+Hitchcock,Mr.,1
+Brookport,Mr.,1
+Sharon Springs,Mr.,1
+Warrensburg,Ms.,1
+Rayle,Ms.,1
+Tracy,Mr.,1
+Hallettsville,Mr.,1
+Fairview Heights,Mr.,1
+Chappaqua,Ms.,1
+Perryville,Mr.,1
+Dubuque,Mrs.,1
+Marienville,Ms.,1
+Pocatello,Mr.,1
+Hendersonville,Mrs.,1
+Metropolis,Ms.,1
+Enterprise,Mrs.,1
+Presque Isle,Mr.,1
+Alma,Mr.,1
+Morrisville,Mr.,1
+Morrisville,Ms.,1
+New Smyrna Beach,Mr.,1
+Moorhead,Mr.,1
+Bristol,Mr.,2
+Barrington,Ms.,1
+Defiance,Mrs.,1
+Defiance,Mr.,1
+Center Line,Mr.,1
+Winder,Mr.,1
+Frost,Mr.,1
+Norlina,Mr.,1
+Mission,Ms.,1
+Mission,Mr.,1
+Vernal,Mrs.,1
+Eagan,Ms.,1
+Newtown,Mr.,1
+Somerville,Mr.,1
+Vian,Ms.,1
+Albin,Mr.,1
+Wendell,Mrs.,1
+Cedar City,Mr.,1
+Black Rapids,Mr.,1
+Newburgh,Mr.,1
+Holden,Mr.,1
+Broken Arrow,Mrs.,1
+Kokomo,Mrs.,1
+Mount Vernon,Mrs.,1
+Lake Charles,Ms.,1
+Needham,Mrs.,1
+Cypress,Mrs.,1
+Eden,Mr.,1
+Deland,Ms.,1
+Portal,Mr.,1
+Santa Maria,Ms.,1
+Sweetwater,Mr.,1
+Telephone,Mr.,1
+Baldwin Park,Mr.,1
+Algona,Mr.,1
+Plymouth Meeting,Mr.,1
+Mountain Grove,Mr.,1
+Corvallis,Ms.,1
+Dell City,Ms.,1
+Sewickley,Mr.,1
+Elkins,Mr.,1
+Woodmere,Mr.,1
+West Warwick,Ms.,1
+Platina,Mr.,1
+Bowbells,Mrs.,1
+Dover,Mr.,1
+Dover,Ms.,1
+Virginia City,Mr.,1
+Cheboygan,Mrs.,1
+Tamarac,Mr.,1
+El Segundo,Mrs.,1
+Ellettsville,Mr.,1
+Ann Arbor,Ms.,1
+Londonderry,Mr.,1
+Redding,Mr.,1
+Murfreesboro,Ms.,1
+Huntingdon,Mr.,1
+Greenwich,Ms.,2
+Ingleside,Dr.,1
+Plattsmouth,Ms.,1
+Amboy,Ms.,1
+Peculiar,Ms.,1
+Rosemead,Mr.,1
+Saranac Lake,Mr.,1
+Easton,Mr.,1
+Cullman,Mr.,1
+Pacoima,Ms.,1
+New Cumberland,Mr.,1
+Farmingdale,Mr.,1
+Alvin,Ms.,1
+Northampton,Ms.,1
+Northampton,Mr.,1
+Table Grove,Mr.,1
+Newport News,Mrs.,1
+Old Greenwich,Mr.,1
+Bloomsburg,Mr.,1
+Bloomsburg,Ms.,1
+Visalia,Mr.,1
+Three Rivers,Mrs.,1
+Willow Hill,Dr.,1
+Apple Valley,Mr.,1
+Wood Dale,Mr.,1
+Lynnwood,Ms.,1
+Lake Village,Mrs.,1
+Mohave Valley,Mrs.,1
+Faribault,Mr.,1
+Pen Argyl,Mrs.,1
+Hyattsville,Mr.,1
+Saipan,Mrs.,1
+Scott,Ms.,1
+Benton,Mr.,1
+Longwood,Mr.,1
+Oak Grove,Mr.,1
+O Fallon,Mr.,1
+Tonawanda,Mr.,1
+Atlantic City,Mr.,1
+Buchanan,Ms.,1
+Brownwood,Ms.,1
+Asbury Park,Ms.,1
+Galliano,Ms.,1
+San Mateo,Ms.,1
+Mandarin,Ms.,1
+Rock Island,Ms.,1
+Rugby,Mr.,1
+West Bloomfield,Mr.,1
+Wyoming,Ms.,1
+Sunland,Ms.,1
+Carlton,Ms.,1
+Hutchinson,Ms.,1
+Delta Jct,Mrs.,1
+Stewart,Mr.,1
+Ramsey,Mr.,1
+Oneida,Ms.,1
+Gonzales,Ms.,1
+Walpole,Mr.,1
+Danbury,Mrs.,1
+Morrilton,Mr.,1
+Fenton,Mr.,1
+Goodland,Mrs.,1
+Freelandville,Mr.,1
+Gadsden,Mrs.,1
+Thousand Palms,Mr.,1
+West Nyack,Mrs.,1
+Brattleboro,Mrs.,1
+Brattleboro,Mr.,1
+Boydton,Mrs.,1
+Martinsville,Mr.,1
+Grand Junction,Mrs.,1
+Kenosha,Mr.,1
+Verbena,Ms.,1
+Fort White,Mr.,1
+Provo,Mr.,1
+Grayslake,Ms.,1
+Salina,Mr.,1
+Utica,Ms.,1
+Hillsboro,Ms.,1
+Cockeysville,Ms.,1
+Monticello,Mr.,1
+Jeanerette,Mrs.,1
+Reading,Mrs.,1
+Carson City,Ms.,1
+Oak Creek,Mrs.,1
+Chester,Mr.,1
+Golden,Ms.,1
+Windom,Mr.,1
+Denton,Mrs.,1
+Lewis,Ms.,1
+Orangevale,Mr.,1
+High Falls,Mr.,1
+Kempton,Dr.,1
+North Hollywood,Mr.,1
+Fort Collins,Ms.,1
+Mauston,Mr.,1
+Neosho,Ms.,1
+Camp Hill,Ms.,1
+Mcadoo,Mr.,1
+Blountsville,Mr.,1
+Scofield,Ms.,1
+Lakota,Mr.,1
+Hannibal,Mr.,1
+Inglewood,Mr.,1
+Tyrone,Mr.,1
+Harrington,Mr.,1
+Liverpool,Mrs.,1
+Gibsonia,Mr.,1
+Adairsville,Mr.,1
+Maitland,Ms.,1
+Mc Kinney,Mr.,1
+Fairfield,Ms.,1
+Hammond,Mr.,1
+Spokane Valley,Mrs.,1
+Beckley,Ms.,1
+York,Mrs.,1
+Spring Grove,Mr.,1
+Statesville,Mr.,1
+Pleasant Hill,Mr.,1
+Sevierville,Mr.,1
+Clifton,Mr.,2
+East Syracuse,Mrs.,1
+Soda Springs,Mrs.,1
+Tolleson,Mr.,1
+Hallett,Mr.,1
+South Plainfield,Mrs.,1
+Cloudcroft,Ms.,1
+Clovis,Mrs.,1
+Andes,Ms.,1
+Socaldwell,Mr.,1
+Kosciusko,Mrs.,1
+Shakopee,Mr.,1
+Mount Auburn,Ms.,1
+Wallis,Mr.,1
+Rock Cave,Mr.,1
+Sisterdale,Ms.,1
+Merrillville,Mr.,1
+Lewisburg L Co.,Ms.,1
